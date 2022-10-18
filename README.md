@@ -12,6 +12,8 @@ The controls for this game are very simple:
 - WASD: Move Camera
 - Spacebar: Restart Level
 
+The normal blocks give you 50 points. The gold blocks give you 300.
+
 ## Credits
 
 Everything in this prototype was made with standard Unity assets.
